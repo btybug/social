@@ -1,0 +1,19 @@
+{
+    "name": "btybug/social",
+    "description": "Social Module Description",
+    "authors": [
+        {
+            "name": "Sahak",
+            "email": "hakobyan.sahak88@gmail.com"
+        }
+    ],
+    "type": "module",
+    "route": "social",
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "Btybug\\Social\\": "src/"
+        }
+    },
+    "tables":[]
+}

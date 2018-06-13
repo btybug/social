@@ -1,0 +1,13 @@
+{
+  "name": "Developer console",
+  "slug": "console",
+  "type": "core",
+  "author": "Terakyan",
+  "title": "Developer console",
+  "author_site": "http://dev.bootydev.co.uk/",
+  "version": "1.0",
+  "description": "This is the description for the Console module.",
+  "enabled": true,
+  "created_at": "19-01-2017 19:24",
+  "tables": []
+}
