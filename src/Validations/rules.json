@@ -1,7 +1,0 @@
-{
-  "email": "Email",
-  "number": "Phone",
-  "min:6|max:255": "Password",
-  "alpha_num": "alpha-numeric characters",
-  "numeric": "Numerical"
-}

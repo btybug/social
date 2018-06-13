@@ -1,12 +1,12 @@
 {
-  "name": "Developer console",
-  "slug": "console",
+  "name": "Social",
+  "slug": "social",
   "type": "core",
-  "author": "Terakyan",
-  "title": "Developer console",
+  "author": "Hakobyan",
+  "title": "Social network",
   "author_site": "http://dev.bootydev.co.uk/",
   "version": "1.0",
-  "description": "This is the description for the Console module.",
+  "description": "This is the description for the Social module.",
   "enabled": true,
   "created_at": "19-01-2017 19:24",
   "tables": []
